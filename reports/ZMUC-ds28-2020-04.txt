@@ -1,0 +1,36 @@
+Report for Institution Code ZMUC, Resource ds28
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 742
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 2
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-07 ; Times: 2
+	Date: 2020-04-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:ZMUC hastissue:1" ; Times: 1
+	Query: "Triturus cristatus" ; Times: 2
+	Query: "institutioncode:ZMUC" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1171 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
